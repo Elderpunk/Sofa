@@ -1,16 +1,16 @@
 // Tipografía
 
-$font-family: Arial; // Todo el proyecto
+$font-family: Arial,sans-serif; // Todo el proyecto
 
 // Tamaños tipográficos
 $font-size-base: 16px; // Base
 $font-size-titulo: convertir(130);
-$font-size-parrafo: convertir(18);
+$font-size-parrafo: convertir(16);
 $font-size-boton: convertir(24);
 
 // Colores
-$color-fondo: #EDB84F;
-$color-fondo-boton: #BE2424; 
+$color-fondoIzq: #ADC6D4;
+$color-fondoDer: #4A92BA; 
 $color-blanco: #ffff;
 
 
