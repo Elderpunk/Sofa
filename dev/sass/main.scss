@@ -1,0 +1,25 @@
+/* **************************** */
+/* IMPORTAR PARCIALES PARA COMPILAR */
+/* **************************** */
+
+// ABSTRACT
+@import 'abstract/variables';
+@import 'abstract/functions';
+
+// BASE
+@import 'base/normalize';
+@import 'base/reset';
+@import 'base/tipografia';
+
+// COMPONENTS
+@import 'components/botones';
+
+// LAYOUT
+
+@import 'layout/grids';
+@import 'layout/body';
+@import 'layout/navegador';
+
+
+// PAGES
+@import 'pages/index';
